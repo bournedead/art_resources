@@ -1,2 +1,12 @@
 # art_resources
-List of online art resources for artists, curators, and directors.
+This is a list of online art resources for artists, curators, and directors.
+
+Content is broken down into:
+
+Museums
+Galleries
+Non-Profits
+Art News & Blogs
+Artists
+
+
